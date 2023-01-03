@@ -5,7 +5,7 @@
 
 ---
 ### 주제 1. 피파 온라인 게임 데이터 분석
-#### 1. 피파온라인 API 홈페이지에 있는 데이터 수집 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://developers.nexon.com/fifaonline4)
+#### 1. 피파온라인 API 홈페이지에 있는 데이터 수집 [![링크 이동](https://cldup.com/dTxpPi9lDf.thumb.png)](https://developers.nexon.com/fifaonline4)
 #### 2. 각 데이터에 대한 파악을 끝내고 나면 프로젝트 진행 방향 설정
 #### 3. 간단한 시각화 및 파생변수 / 인사이트 도출
 #### 4. 모델링 진행 - 이탈자 방지 또는 추천 시스템
